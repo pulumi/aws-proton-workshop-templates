@@ -1,2 +1,3 @@
 # aws-workshop-proton-templates
-AWS Proton templates for use with pulumi/workshops/proton
+
+AWS Proton templates for use with pulumi/workshops/aws-proton
